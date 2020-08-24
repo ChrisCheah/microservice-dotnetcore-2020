@@ -1,6 +1,7 @@
 # microservice-dotnetcore-2020
 ## Environment
-Docker [ [download](https://hub.docker.com/editions/community/docker-ce-desktop-windows/) ]
+Docker [ [install](https://hub.docker.com/editions/community/docker-ce-desktop-windows/) ]  
+Windows Linux Subsystem [ [install](https://docs.microsoft.com/en-us/windows/wsl/install-win10)]
 
 ### Service
 Development - ASP.NET CORE 3.1* [ [docker image](https://hub.docker.com/_/microsoft-dotnet-core-aspnet) ]  
